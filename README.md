@@ -1,7 +1,9 @@
-### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### EX1-Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
+### DATE: 24/02/2025
+
 ### AIM: 
-  To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
+  To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing.
+  
 ### PROCEDURE: 
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
@@ -54,6 +56,11 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+### Employee Data:
+![Screenshot 2025-02-24 183932](https://github.com/user-attachments/assets/62136e24-019d-4322-a0d5-911d6cf5ce18)
+
+### Weather Data:
+![Screenshot 2025-02-24 184747](https://github.com/user-attachments/assets/9feb97a1-dee0-4ce9-9f71-bbd89c44308f)
 
 
 ### PREPROCESSING
@@ -76,6 +83,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![Screenshot 2025-02-24 184948](https://github.com/user-attachments/assets/1994c1e7-0553-4977-b628-ea6e584e3cd8)
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +102,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![Screenshot 2025-02-24 185121](https://github.com/user-attachments/assets/d1c3275e-8b32-4e89-b6bb-7ac06f225660)
+
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +120,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+![Screenshot 2025-02-24 185218](https://github.com/user-attachments/assets/0fc5afaf-f046-4ad6-af22-9ac74012dfd0)
+
+
 ### RESULT: 
-  Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
+
+Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
